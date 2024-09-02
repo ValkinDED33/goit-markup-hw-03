@@ -54,6 +54,7 @@ p {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  width: 1158px;
 }
 .nav {
   display: flex;
@@ -299,6 +300,11 @@ p {
 /* #endregion-OUR TEAM */
 
 /* #region-PORTFOLIO */
+
+.portfolio {
+  padding-top: 120px;
+  padding-bottom: 120px;
+}
 
 .div-portfolio-items {
   padding: 32px 16px;
